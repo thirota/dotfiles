@@ -1,9 +1,8 @@
-dotfiles
-========
+# dotfiles
 
-# About
+## About
 * My configuration
 
-# Author
+## Author
 * Takayuki Hirota
 
