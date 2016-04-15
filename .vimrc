@@ -10,6 +10,6 @@ set shiftwidth=2
 set incsearch
 set hlsearch
 set list
-set listchars=eol:¬,tab:>\ 
+set listchars=trail:-,eol:¬,tab:>\ 
 syntax enable
 filetype plugin indent on
