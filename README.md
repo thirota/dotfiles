@@ -1,7 +1,7 @@
 # dotfiles
 
 ## About
-* My configuration
+* My configuration files for OS X and Windows
 
 ## Author
 * Takayuki Hirota
