@@ -1,3 +1,3 @@
 set background=dark
-colorscheme hybrid
+colorscheme desert
 
