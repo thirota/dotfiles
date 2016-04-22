@@ -1,4 +1,6 @@
 set nocompatible
+set nobackup
+set noundofile
 set number
 set cursorline
 set laststatus=2
