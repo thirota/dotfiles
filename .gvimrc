@@ -1,10 +1,10 @@
 set background=dark
 colorscheme desert
-set columns=200
-set lines=40
+"set columns=200
+"set lines=40
 "winpos 0 0
 
-"save window position and size
+"save columns, lines and winpos
 "http://vim-jp.org/vim-users-jp/2010/01/28/Hack-120.html
 let g:save_window_file = expand('~/.vimwinpos')
 augroup SaveWindow
