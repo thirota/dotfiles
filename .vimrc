@@ -13,5 +13,6 @@ set shiftwidth=2
 set incsearch
 set hlsearch
 set list
+set encoding=utf-8
 syntax enable
 filetype plugin indent on
