@@ -1,1 +1,1 @@
-
+cask "google-chrome"
