@@ -5,7 +5,7 @@
 
 ## Install
 * Copy dotfiles to your home directory.
-* brew bundle --file <Brewfile>
+* `brew bundle --file ./Brewfile`
 
 ## Author
 * Takayuki Hirota
